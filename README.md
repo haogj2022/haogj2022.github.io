@@ -3,7 +3,7 @@
 ## Welcome to my portfolio. This portfolio is where I share my personal and group projects I have done during my study in British University Vietnam.
 ## My personal projects:
 ## 1. Flag Capture
-### Flag Capture is a 3D shooter game which you capture other team's flag to win. This game was completed in 2022.
+#### Flag Capture is a 3D shooter game which you capture other team's flag to win. This game was completed in 2022.
 https://buv.instructuremedia.com/embed/a4067d5a-0c9f-4ec9-b1e4-16fceb41d33d
 # 2. Roll A Box
 # Roll A Box is a 3D platformer game which you roll a box to the finish line. This game was completed in 2022.
