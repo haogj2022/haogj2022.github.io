@@ -1,6 +1,6 @@
 # Nguyen Anh Hao
 # Game Designer
-# Welcome to my portfolio. This portfolio is where I share my personal and group projects I have done during my study in British University Vietnam.
+## Welcome to my portfolio. This portfolio is where I share my personal and group projects I have done during my study in British University Vietnam.
 # My personal projects:
 # 1. Flag Capture
 # Flag Capture is a 3D shooter game which you capture other team's flag to win. This game was completed in 2022.
